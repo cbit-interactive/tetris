@@ -1,7 +1,7 @@
 # tetris
 This is a game for iiOS, my OS or operating system.
 
-#About iiOS
+# About iiOS
 
 iiOS is a new and simple Operating system for Windows. Features:
 1) Basic UI
