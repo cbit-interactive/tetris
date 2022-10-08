@@ -1,5 +1,5 @@
 # tetris
-This is a game for iiOS, my OS or operating system.
+This is a game for iiOS, my OS or operating system. This Tetris Clone is in NO Way associated with the makers or owners of the ACTUAL game.
 
 # About iiOS
 
